@@ -24,7 +24,7 @@ This repository is an excellent resource for professionals and students looking 
 
 ## Important Links & Tools:
 
-- **[Datasets](Financial Analysis Project/Financial Analysis Report.pbix):** Access to the project dataset (excel files).
+- **[Datasets](Financial Analysis Report.pbix/):** Access to the project dataset (excel files).
 - **[Real time Dashboard](https://app.powerbi.com/groups/me/reports/0952df6b-b78e-4499-9f1b-829c0785e91b/806f756a9be70432c630?bookmarkGuid=da1800f2-2506-4408-97c5-f49c97df0012&bookmarkUsage=1&ctid=7dc4d1d9-d0ae-4c8c-b4e8-e96f1e3cbd2c&portalSessionId=64fb164c-7bd4-4e24-821f-ac9df095c892&fromEntryPoint=export):** Dashboard insights using Power Point.
 
 ---
